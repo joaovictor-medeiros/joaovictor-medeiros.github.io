@@ -1,0 +1,10 @@
+! DOCTYPE html >
+< html >
+    < cabeça >
+        < title > Pagina 1 </ title >
+	</ cabeça >
+	< body  bgcolor = " # 00ff66 " >
+		< h1 > página 1 </ h1 >
+		< A  href = " index.html " > voltar </ a >
+	</ corpo >
+</ html >
