@@ -5,6 +5,6 @@
 	</ cabeça >
 	< body  bgcolor = #ooffff >
 		< h1 > Página 2 </ h1 >
-		< A  href = " intex.html " > Voltar </ a >
+		< A  href = " index.html " > Voltar </ a >
 	</ corpo >
 </ html >	
