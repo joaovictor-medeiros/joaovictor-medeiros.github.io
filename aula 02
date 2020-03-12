@@ -1,0 +1,10 @@
+<! DOCTYPE html >
+< html >
+	< cabeça >
+		< title > Pagina 2 </ title >
+	</ cabeça >
+	< body  bgcolor = #ooffff >
+		< h1 > Página 2 </ h1 >
+		< A  href = " intex.html " > Voltar </ a >
+	</ corpo >
+</ html >	
